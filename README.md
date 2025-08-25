@@ -22,10 +22,10 @@ It demonstrates how SQL Server and Power BI can be combined to analyze real esta
 
 ## 📷 Dashboard Screenshots
 ### Sales Performance
-![Sales Dashboard](./images/)
+![Sales Dashboard](images/2025-08-07(14).png)
 
 ### Expense Control
-![Expense Dashboard](./images/expense_dashboard.png)
+![Expense Dashboard](images/2025-08-07(15).png)
 
 ---
 
