@@ -9,14 +9,14 @@ It demonstrates how SQL Server and Power BI can be combined to analyze real esta
 - **Sales KPIs**: Total Sales, Profit Margin %, Closed Deals, Sales by Type, Sales by Occupation, Sales by Means of Sales  
 - **Expense KPIs**: Total Expenses, Expenses by Type, Expenses by Country, Expense per Closed Deal  
 - **Profitability**: Profit (Sales − Expenses), Net Profit by Property & Location  
-- **Time Analysis**: Monthly trends for Sales & Expenses, Days on Market  
+- **Time Analysis**: Monthly trends for Sales & Expenses
 
 ---
 
 ## ⚙️ Tools & Technologies
 - **SQL Server** → Data cleaning, joining, and KPI calculation  
 - **Power BI** → Dashboard design & visualization  
-- **DAX** → Custom calculations (Profit Margin, Days on Market, Monthly Breakdown)  
+- **DAX** → Custom calculations (Profit Margin, Monthly Breakdown)  
 
 ---
 
